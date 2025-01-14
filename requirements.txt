@@ -1,0 +1,12 @@
+jupyter
+gemini-api
+langchain
+clickhouse-connect
+langchain-community
+pypdf
+pandas
+google.generativeai
+python-dotenv
+langchain-google-genai
+chromadb
+streamlit
