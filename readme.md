@@ -49,9 +49,8 @@ This project demonstrates the implementation of a Retrieval-Augmented Generation
 ```
 RAG_Gemini/
 ├── pdfs/
-│   └── Ankit_Resume.pdf
-├── githubchatbot.ipynb
-├── newchatbot copy.ipynb
+│   └── Your_PDF.pdf
+├── newchatbot.ipynb
 ├── readme.md
 ├── requirements.txt
 └── .env
